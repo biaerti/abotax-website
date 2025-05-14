@@ -16,6 +16,10 @@
 # next.js
 /.next/
 /out/
+/build
+
+# Next.js App Router (jeśli używamy tylko Pages Routera)
+src/app/
 
 # production
 /build
